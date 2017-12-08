@@ -19,3 +19,11 @@ npm install;
 npm install -g gulp;
 gulp build;
 npm run start;
+
+Also, good documentation is provide to understand the flow and tools like jsdoc,esdoc etc can be used to generate the docs automatically as the documentation is written according to the standards.
+
+Middlewares are used to handle 400 bad requests (invalid jsons), 500 internal server errors etc.
+
+Also, Tslint is used to maintain the coding standards.
+
+Tests not included.
